@@ -25,10 +25,4 @@ Este eBook é uma introdução prática e conceitual ao DDD (Domain-Driven Desig
 
 ---
 
-## 🛠 Como gerar o PDF
-
-Você pode converter o `.md` em PDF com:
-
-```bash
-pandoc ebook/HackTheDomain.md -o ebook/HackTheDomain.pdf --from markdown --pdf-engine=xelatex
 
